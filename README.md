@@ -1,3 +1,3 @@
-# Pledgewave
+# Pledgistry
 
 name is WIP.
